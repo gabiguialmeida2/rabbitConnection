@@ -1,4 +1,4 @@
-module rabbitConnection
+module github.com/gabiguialmeida2/rabbitConnection
 
 go 1.17
 
